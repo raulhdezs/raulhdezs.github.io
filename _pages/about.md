@@ -6,7 +6,7 @@ subtitle: <a href='#'>Thermal and Fluids Engineering Department</a>, Universidad
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office 1.1.D22</p>
     <p>Av. de la Universidad, 30</p>
