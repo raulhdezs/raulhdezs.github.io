@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Thermal and Fluids Engineering Department</a>, Universidad Carlos III de Madrid
+subtitle: <a href='http://fluidosuc3m.es/'>Fluid Mechanics Research Group</a>, Universidad Carlos III de Madrid
 
 profile:
   align: right
