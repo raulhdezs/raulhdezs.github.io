@@ -1,0 +1,65 @@
+- year: 2025-26
+  institutions:
+    - name: Universidad Carlos III de Madrid
+      courses:
+        - title: Engineering Fluid Mechanics (15499)
+          institution: 
+          degree: Bachelor in Industrial Technologies Engineering
+          type: Tutorials
+          syllabus: https://aplicaciones.uc3m.es/cpa/generaFicha?est=256&plan=418&asig=15499&idioma=1
+          language: Spanish
+        - title: Advanced Topics in Fluid Mechanics (16158)
+          degree: Master in Industrial Mechanics 
+          type: Lectures
+          syllabus: https://aplicaciones.uc3m.es/cpa/generaFicha?est=265&asig=16158&idioma=1
+          language: Spanish
+
+- year: 2024-25
+  institutions:
+    - name: Universidad Carlos III de Madrid
+      courses:
+        - title: Engineering Fluid Mechanics (15499)
+          degree: Bachelor in Industrial Technologies Engineering
+          type: Lectures, tutorials and lab sessions
+          syllabus: https://aplicaciones.uc3m.es/cpa/generaFicha?est=256&plan=418&asig=15499&idioma=1
+          language: Spanish
+
+- year: 2023-24
+  institutions:
+    - name: Universidad Carlos III de Madrid
+      courses:
+        - title: Engineering Fluid Mechanics (15499)
+          degree: Bachelor in Industrial Technologies Engineering
+          type: Tutorials
+          syllabus: https://aplicaciones.uc3m.es/cpa/generaFicha?est=256&plan=418&asig=15499&idioma=2
+          language: English
+        - title: Fluid Mechanics II (14170)
+          degree: Bachelor in Aerospace Engineering
+          type: Lab sessions
+          syllabus: https://aplicaciones.uc3m.es/cpa/generaFicha?est=251&plan=421&asig=14170&idioma=2
+          language: English
+
+- year: 2022-23
+  institutions:
+    - name: IUT, Aix-Marseille Université
+      courses:
+        - title: Boilers and Fluid Networks, Hydraulics and Aerodynamics, Heat Exchangers, Heat Transfer
+          degree: Bachelor in Energy Transition and Efficiency
+          type: Lab sessions
+          syllabus: https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie/but-metiers-transition-efficacite-energetiques
+          language: French
+
+- year: 2021-22
+  institutions:
+    - name: Polytech Marseille
+      courses:
+        - title: Mathematics for Engineering I
+          degree: Bachelor in Mechanical and Energy Engineering
+          type: Tutorials
+          syllabus: https://polytech.univ-amu.fr/formations/cycle-ingenieur/mecanique-energetique#section-3684
+          language: French
+        - title: Phase Change
+          degree: Master in Mechanical and Energy Engineering
+          type: Tutorials
+          syllabus: https://polytech.univ-amu.fr/formations/cycle-ingenieur/mecanique-energetique#section-3684
+          language: French

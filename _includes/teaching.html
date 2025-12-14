@@ -1,0 +1,26 @@
+<section id="teaching">
+  <h2>Courses Taught</h2>
+
+  {% for block in site.data.teaching %}
+    <h3>{{ block.year }}</h3>
+
+    {% for inst in block.institutions %}
+      <h4>{{ inst.name }}</h4>
+
+      <ul class="teaching-list">
+        {% for course in inst.courses %}
+          <li>
+            {% if course.syllabus %}
+              <strong><a href="{{ course.syllabus }}" target="_blank" rel="noopener">{{ course.title }}</a></strong>
+            {% else %}
+              <strong>{{ course.title }}</strong>
+            {% endif %}
+            <br />
+            {{ course.degree }} · {{ course.language }} · {{ course.type }}
+          </li>
+        {% endfor %}
+      </ul>
+
+    {% endfor %}
+  {% endfor %}
+</section>

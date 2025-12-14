@@ -2,19 +2,16 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Publications ordered from newest to oldest.
+description: Scientific communications ordered from oldest to newest.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
+<h2>Journal Articles</h2>
 {% bibliography %}
 
-</div>
+<h2>Conference Contributions</h2>
+{% bibliography --file conferences.bib %}
+
+<h2>Seminars & Workshops</h2>
+{% bibliography --file seminars.bib %}

@@ -1,0 +1,14 @@
+# Fdb version 4
+["pdflatex"] 1759251057.59054 "/home/raulhern/Repositorios/raulhdezs.github.io/_bibliography/papers.bib" "papers.pdf" "papers" 1759251057.83794 2
+  "/etc/texmf/web2c/texmf.cnf" 1757755331.59465 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/raulhern/Repositorios/raulhdezs.github.io/_bibliography/papers.bib" 1759251057.51052 5093 12ef47801106c02823c911d5aab8c782 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1757755452 8214586 e29f182ccbfde1d6b1a14cfad3480d25 ""
+  "papers.aux" 1759251057.59024 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "papers.bib" 1759251057.51052 5093 12ef47801106c02823c911d5aab8c782 ""
+  (generated)
+  "papers.aux"
+  "papers.log"
+  "papers.pdf"
+  (rewritten before read)
